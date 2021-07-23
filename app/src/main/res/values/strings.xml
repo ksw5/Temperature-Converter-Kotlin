@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="temperature_in_celsius">Temperature in Celsius</string>
+    <string name="temperature_in_fahrenheit">Temperature in Fahrenheit</string>
+    <string name="or">or</string>
+    <string name="convert">CONVERT</string>
+    <string name="reset">RESET</string>
+</resources>
