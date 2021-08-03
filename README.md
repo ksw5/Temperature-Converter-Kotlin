@@ -7,8 +7,12 @@
 ## DESCRIPTION ##
 An app that will convert user inputted temperatures into fahrenheit or celsius.
 
+## PREREQUISITES ##
+* Android Operating System
 ## BUILT WITH ##
 * Kotlin
 * Android Studio
 * No external libraries were used in this project
 
+## AUTHOR ##
+[Kieran Windley](http://github.com/ksw5)
