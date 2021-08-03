@@ -1,3 +1,2 @@
 # Temperature-Converter-Kotlin
-![test](tempconvertgif.gif)
-
+<img src="tempconvertgif.gif" width="48" height="48">
